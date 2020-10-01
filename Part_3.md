@@ -97,3 +97,6 @@ These provide more granular control and will include `ACLs` and `SELinux`.
 
 ## Exercise
 Do `man chmod` to see another way of specifying permissions (**Hint**: it will be like 0777 or 666). Also see how extended permissions can be set. (I couldn't use them doesn't mean you won't be able to 😌)
+
+# Next Part of the Series
+Next session would be all about pipes in Linux. - one of the most powerful thing you have at your command.
