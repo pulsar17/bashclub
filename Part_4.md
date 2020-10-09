@@ -3,6 +3,8 @@ Look at the output of this command
 ```bash
 cat timetraveldiaries.txt | grep doctor
 ```
+> Link for the file - [timetraveldiaries.txt file](./Auxillary_Files/timetraveldiaries.txt).
+
 If you closely notice there are two commands `cat` and `grep` connected by a `|` - famous as the pipe character.  
 Now let's try to figure out what's going on here. Look at the parts separately (You could try running 1. and 3. separately)
 1. `cat timetraveldiaries.txt` - This will print 🖨️ out the file on your terminal. Pretty trivial, right?😌. What you should know that `cat` actually prints to `stdout` - the standard output.  
