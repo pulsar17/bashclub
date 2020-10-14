@@ -1,0 +1,7 @@
+theme: jekyll-theme-merlot
+defaults:
+  - 
+    scope:
+      path: "README.md"
+    values:
+      permalink: "index.html"
